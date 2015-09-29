@@ -4,7 +4,7 @@
 #
 Name     : rubygem-rspec-rails
 Version  : 3.3.2
-Release  : 6
+Release  : 7
 URL      : https://rubygems.org/downloads/rspec-rails-3.3.2.gem
 Source0  : https://rubygems.org/downloads/rspec-rails-3.3.2.gem
 Summary  : No detailed summary available
