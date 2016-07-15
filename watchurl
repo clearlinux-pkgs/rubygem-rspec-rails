@@ -1,4 +1,4 @@
 # File auto-generated with 'Watchfile generator'
-# 2015-11-27 16:48:58.748136
-# {'development', '~>2.7.0', '>=2.2'}
-https://rubygems.org/downloads/rspec-rails-([0-2]\.[0-7](\.[0-9]{1,2})?).gem
+# 2016-07-14 22:13:53.925962
+# {'development', '>=2.2', '~>2.7.0'}
+watchurl=https://rubygems.org/gems/rspec-rails/versions/([0-2]\.[0-7](?:\.[0-9]{1,2})*)
